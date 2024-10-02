@@ -5,9 +5,9 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
+  name: "Lecture 2 MATT"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
+  url: "https://www.youtube.com/watch?v=UirAlYvQYD4&list=PL-XWNe_oYcGNgFlHdOarAnYZvkusmDSq_&index=2&pp=iAQB"
   file_name: "android-studio-ide-201.7042882-windows.exe"
   piece_size: 19 # Check the README.md for recommended piece size
       
